@@ -2,3 +2,6 @@ a57c55
 
 login功能
 register
+
+
+logout
