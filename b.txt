@@ -5,3 +5,5 @@ register
 
 
 logout
+
+reset
